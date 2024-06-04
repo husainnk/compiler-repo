@@ -1,5 +1,6 @@
 # compiler-repo
 
+![Tux, the Linux mascot](compiler-components.png)
 
 ### Comp Architecture 
 
