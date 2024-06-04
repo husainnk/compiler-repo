@@ -12,4 +12,4 @@
 
 
 ### Optimization Stories
-Optimizing 128-bit Division (https://danlark.org/2020/06/14/128-bit-division/)
+[Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
