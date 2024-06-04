@@ -31,4 +31,7 @@
 ### Everyone should read this
 https://fabiensanglard.net/blog/
 
+### Misc
+[History of C Compilers](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
+
 
