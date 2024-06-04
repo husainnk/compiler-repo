@@ -18,9 +18,14 @@
 
 ### Optimization Stories
 
-[Quake’s Fast Inverse Square Root] (https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
+[Quake’s Fast Inverse Square Root](https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
+
 [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
 
 
 ### Everyone should read this
 https://fabiensanglard.net/blog/
+
+### Misc
+
+[Compiling Process](https://fabiensanglard.net/dc/)
