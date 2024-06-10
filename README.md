@@ -11,7 +11,10 @@
 ### Comp Architecture 
 
 [Modern Micorprocessors - Pipelining, ILP, Super Scalar, Branch Prediction, Regiter Renaming, OOO](https://www.lighterra.com/papers/modernmicroprocessors/)
+
 [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
+
+[Predication: To reduce pipeline stalls due to control hazards](https://www.icsa.inf.ed.ac.uk/research/groups/hase/models/dlx-pred/)
 
 ### Tools
 [Compiler Explorer](https://godbolt.org/)
