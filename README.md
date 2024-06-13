@@ -29,6 +29,7 @@
 [Quake’s Fast Inverse Square Root](https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/)
 
 [Optimizing 128-bit Division](https://danlark.org/2020/06/14/128-bit-division/)
+[Scan HTML faster with SIMD ](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 
 
 ### Everyone should read this
