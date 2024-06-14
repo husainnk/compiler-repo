@@ -3,10 +3,14 @@
 ![Tux, the Linux mascot](compiler-components.png)
 
 
+
+
 ### Compiler 101
 [Compiling Process](https://fabiensanglard.net/dc/)
 
 [Restrict Keyword in C](https://ckrisgarrett.github.io/restrict.html)
+
+[Register Spilling](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/)
 
 ### Comp Architecture 
 
