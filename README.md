@@ -20,6 +20,8 @@
 
 [Predication: To reduce pipeline stalls due to control hazards](https://www.icsa.inf.ed.ac.uk/research/groups/hase/models/dlx-pred/)
 
+[Return Address Stack](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
+
 ### Tools
 [Compiler Explorer](https://godbolt.org/)
 
