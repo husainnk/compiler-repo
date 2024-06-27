@@ -22,6 +22,7 @@
 
 [Return Address Stack](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 
+
 ### Tools
 [Compiler Explorer](https://godbolt.org/)
 
@@ -42,7 +43,10 @@
 ### Everyone should read this
 https://fabiensanglard.net/blog/
 
+
 ### Misc
 [History of C Compilers](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 
 
+### Books
+(The Science of Programming Matrix Computations)[https://www.cs.utexas.edu/~rvdg/tmp/TSoPMC.pdf]
