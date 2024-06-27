@@ -49,4 +49,4 @@ https://fabiensanglard.net/blog/
 
 
 ### Books
-(The Science of Programming Matrix Computations)[https://www.cs.utexas.edu/~rvdg/tmp/TSoPMC.pdf]
+[The Science of Programming Matrix Computations](https://www.cs.utexas.edu/~rvdg/tmp/TSoPMC.pdf)
