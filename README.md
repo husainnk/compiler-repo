@@ -40,6 +40,9 @@
 [Scan HTML faster with SIMD ](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 
 
+[Beating the L1 cache with value speculation] (https://mazzo.li/posts/value-speculation.html)
+
+
 ### Everyone should read this
 https://fabiensanglard.net/blog/
 
