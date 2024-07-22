@@ -29,8 +29,16 @@
 [Return Address Stack](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 
 
+### Micro Arch
+
+[ARM’s Cortex A53: Tiny But Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+
 ### Tools
 [Compiler Explorer](https://godbolt.org/)
+
+[A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/index.html)
+
+[ARM Instrinsics](https://developer.arm.com/architectures/instruction-sets/intrinsics)
 
 
 ### Courses
@@ -59,3 +67,5 @@ https://fabiensanglard.net/blog/
 
 ### Books
 [The Science of Programming Matrix Computations](https://www.cs.utexas.edu/~rvdg/tmp/TSoPMC.pdf)
+
+[GAME ENGINE BLACK BOOK: WOLFENSTEIN 3D](https://fabiensanglard.net/gebbwolf3d/index.html)
