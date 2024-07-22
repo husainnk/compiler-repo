@@ -46,6 +46,8 @@
 ### Courses
 [Cornell CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
+[vectorization is the holy grail of software optimizations](https://johnnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/)
+
 
 ### Optimization Stories
 
