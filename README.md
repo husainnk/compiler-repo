@@ -1,5 +1,11 @@
 # compiler-repo
 
+
+> For every extra cycle an hardware engineer can squeeze out of silicon, you will find a programmer adding one hundred cycles to their program.
+
+
+
+
 ![Tux, the Linux mascot](compiler-components.png)
 
 
