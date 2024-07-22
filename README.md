@@ -61,7 +61,7 @@
 [Beating the L1 cache with value speculation](https://mazzo.li/posts/value-speculation.html)
 
 
-### Everyone should read this
+### Must Read
 https://fabiensanglard.net/blog/
 
 
