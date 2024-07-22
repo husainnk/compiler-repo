@@ -68,6 +68,8 @@ https://fabiensanglard.net/blog/
 ### Misc
 [History of C Compilers](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 
+[Compiling and optimization for high performance systems](https://www.es.ele.tue.nl/~heco/courses/ASCI-schools/ASCI_springschool_2017/CompilingFor%20HPCsystems.pdf)
+
 
 ### Books
 [The Science of Programming Matrix Computations](https://www.cs.utexas.edu/~rvdg/tmp/TSoPMC.pdf)
