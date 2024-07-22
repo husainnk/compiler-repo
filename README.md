@@ -28,6 +28,8 @@
 
 [Return Address Stack](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 
+[Guide for Performance Engineers](https://en.algorithmica.org/hpc/)
+
 
 ### Micro Arch
 
