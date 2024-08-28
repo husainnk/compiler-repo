@@ -18,6 +18,8 @@
 
 [Register Spilling](https://johnnysswlab.com/decreasing-the-number-of-memory-accesses-the-compilers-secret-life-2-2/)
 
+[Register Allocation](http://web.cecs.pdx.edu/~mperkows/temp/register-allocation.pdf)
+
 ### Comp Architecture 
 
 [Modern Micorprocessors - Pipelining, ILP, Super Scalar, Branch Prediction, Regiter Renaming, OOO](https://www.lighterra.com/papers/modernmicroprocessors/)
