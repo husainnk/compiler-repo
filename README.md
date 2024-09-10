@@ -32,6 +32,8 @@
 
 [Guide for Performance Engineers](https://en.algorithmica.org/hpc/)
 
+[CPU Port Contention and micro ops](https://blog.amiunique.org/port-contention-goes-portable-port-contention-side-channels-in-web-browsers/)    
+
 
 ### Micro Arch
 
