@@ -52,6 +52,7 @@
 
 [vectorization is the holy grail of software optimizations](https://johnnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/)
 
+[A Gentle Introduction to Assembly Language Programming](https://github.com/pkivolowitz/asm_book?tab=readme-ov-file)
 
 ### Optimization Stories
 
